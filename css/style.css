@@ -1,0 +1,40 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container
+{
+    color: #AAA;
+}
+
+.line
+{
+    width: 77%;
+    height: 1px;
+    margin: auto;
+    background-color: #000;
+}
+.content
+{
+    background-color: #eee;
+    color: #000;
+    font-weight: bold;
+}
+.bookMark-list 
+{
+    /* background-color: #eee; */
+    color: #000;
+    font-weight: bold; 
+}
+.row
+{
+    background-image: linear-gradient(#eee , #fff);
+}
+footer p
+{
+    font-size: 14px;
+    font-weight: bold;
+}
+
